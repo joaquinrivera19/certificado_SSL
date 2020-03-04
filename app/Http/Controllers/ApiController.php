@@ -32,40 +32,40 @@ class ApiController extends Controller
 
     	$url_array = 
     	[
+            [
+                'url'=>'https://www.agd.com.ar',
+                'error'=>''
+            ],
+            [
+                'url'=>'https://auditoria.agd.com.ar',
+                'error'=>''
+            ],
     		[
     			'url'=>'https://transportes.agd.com.ar',
     			'error'=>''
     		],
+            [
+                'url'=>'https://agdpedidos.agd.com.ar',
+                'error'=>''
+            ],
+            [
+                'url'=>'https://natura.com.ar',
+                'error'=>''
+            ],
+            [
+                'url'=>'https://www.recetasnatura.com.ar',
+                'error'=>''
+            ],
     		[
     			'url'=>'https://comprasbys.com.ar',
-    			'error'=>''
-    		],
-    		[
-    			'url'=>'https://www.agd.com.ar',
     			'error'=>''
     		],
     		[
     			'url'=>'https://solicitudesagd.com',
     			'error'=>''
     		],
-    		[
-    			'url'=>'https://agdpedidos.agd.com.ar',
-    			'error'=>''
-    		],
-    		[
-    			'url'=>'https://natura.com.ar',
-    			'error'=>''
-    		],
-    		[
-    			'url'=>'https://www.recetasnatura.com.ar',
-    			'error'=>''
-    		],
             [
                 'url'=>'https://agro.agd.com.ar',
-                'error'=>''
-            ],
-            [
-                'url'=>'https://auditoria.agd.com.ar',
                 'error'=>''
             ]
     	];
